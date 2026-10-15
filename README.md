@@ -177,6 +177,11 @@
 - **麦克风权限**：仅在用户主动触发录音时请求；拒绝后给出明确引导，不强制。
 - **儿童个人信息保护**：MVP 无账号、无上传、无行为采集；录音仅存本地。后续若引入云端，须单独隐私政策。
 - **音源版权（重要待确认）**：当前 212 个标准音来自第三方网站，仅用于本地整理 / 原型；正式线下分发前须确认授权，或替换为**自录 PSC 一级甲等标准音**（版权归己）。
+- **标准音源采集地址（参考）**：
+  1. 首页 / 字母表：`https://www.xdf.cn/zhuanti/suyang_pinyin/index.html`
+  2. 声母表：`https://www.xdf.cn/zhuanti/suyang_pinyin/pages/shengmu.html`
+  3. 韵母表：`https://www.xdf.cn/zhuanti/suyang_pinyin/pages/yunmu.html`
+  4. 整体认读：`https://www.xdf.cn/zhuanti/suyang_pinyin/pages/zhengti.html`
 - **宣传口径**：避免"抢跑 / 超前教学"等表述，定位为"拼音教材辅助工具"。
 
 ---
