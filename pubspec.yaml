@@ -36,7 +36,9 @@ dependencies:
   cupertino_icons: ^1.0.8
 
   # 录音（六端全支持：Android/iOS/Web/macOS/Windows/Linux）
-  record: ^5.1.2
+  # 注意：5.2.1 把 record_linux 锁在 <1.0.0，与 record_platform_interface 1.6.0 新接口不兼容，会导致 iOS 等构建失败。
+  # 升级到 6.2.1：record_linux ^1.3.1 + record_platform_interface ^1.6.0，约束自洽。
+  record: ^6.2.1
   # 音频播放
   audioplayers: ^6.4.0
   # 录音文件本地存储路径
@@ -52,6 +54,9 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^6.0.0
+
+  # 一键生成六端 App 图标（运行：flutter pub run flutter_launcher_icons）
+  flutter_launcher_icons: ^0.14.3
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -100,3 +105,23 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+
+# App 图标（童趣·IP 方案 D）
+# 生成命令：flutter pub get && flutter pub run flutter_launcher_icons
+flutter_launcher_icons:
+  image_path: "icon_src/master.png"
+  adaptive_background_color: "#D4537E"
+  adaptive_foreground_image: "icon_src/foreground.png"
+  android: true
+  ios: true
+  windows:
+    generate: true
+  macos:
+    generate: true
+  linux:
+    generate: true
+  web:
+    generate: true
+    image_path: "icon_src/master.png"
+    background_color: "#D4537E"
+    theme_color: "#D4537E"

@@ -126,3 +126,11 @@ if(NOT CMAKE_BUILD_TYPE MATCHES "Debug")
   install(FILES "${AOT_LIBRARY}" DESTINATION "${INSTALL_BUNDLE_LIB_DIR}"
     COMPONENT Runtime)
 endif()
+
+# Install Linux app icons (freedesktop hicolor) and desktop entry.
+install(DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/flutter/icons/hicolor"
+  DESTINATION "${INSTALL_BUNDLE_DATA_DIR}/icons"
+  COMPONENT Runtime)
+install(FILES "${CMAKE_CURRENT_SOURCE_DIR}/flutter/pinyin_king.desktop"
+  DESTINATION "${INSTALL_BUNDLE_DATA_DIR}/applications"
+  COMPONENT Runtime)
