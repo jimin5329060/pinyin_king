@@ -1,4 +1,4 @@
-package com.example.pinyin_king
+package com.ji.pinyinKing
 
 import io.flutter.embedding.android.FlutterActivity
 
