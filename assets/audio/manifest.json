@@ -1,0 +1,1712 @@
+{
+  "version": 1,
+  "source": "新东方拼音素材（本地整理，待确认版权后替换为 PSC 标准自录音）",
+  "total": 212,
+  "groups": [
+    "前鼻韵母",
+    "单韵母",
+    "后鼻韵母",
+    "声母表",
+    "复韵母",
+    "字母表",
+    "整体认读"
+  ],
+  "items": [
+    {
+      "id": "前鼻韵母_01_an_1",
+      "group": "前鼻韵母",
+      "letter": "an",
+      "tone": 1,
+      "seq": 1,
+      "asset": "assets/audio/前鼻韵母/01_an_1.mp3"
+    },
+    {
+      "id": "前鼻韵母_02_an_2",
+      "group": "前鼻韵母",
+      "letter": "an",
+      "tone": 2,
+      "seq": 2,
+      "asset": "assets/audio/前鼻韵母/02_an_2.mp3"
+    },
+    {
+      "id": "前鼻韵母_03_an_3",
+      "group": "前鼻韵母",
+      "letter": "an",
+      "tone": 3,
+      "seq": 3,
+      "asset": "assets/audio/前鼻韵母/03_an_3.mp3"
+    },
+    {
+      "id": "前鼻韵母_04_an_4",
+      "group": "前鼻韵母",
+      "letter": "an",
+      "tone": 4,
+      "seq": 4,
+      "asset": "assets/audio/前鼻韵母/04_an_4.mp3"
+    },
+    {
+      "id": "前鼻韵母_05_en_1",
+      "group": "前鼻韵母",
+      "letter": "en",
+      "tone": 1,
+      "seq": 5,
+      "asset": "assets/audio/前鼻韵母/05_en_1.mp3"
+    },
+    {
+      "id": "前鼻韵母_06_en_2",
+      "group": "前鼻韵母",
+      "letter": "en",
+      "tone": 2,
+      "seq": 6,
+      "asset": "assets/audio/前鼻韵母/06_en_2.mp3"
+    },
+    {
+      "id": "前鼻韵母_07_en_3",
+      "group": "前鼻韵母",
+      "letter": "en",
+      "tone": 3,
+      "seq": 7,
+      "asset": "assets/audio/前鼻韵母/07_en_3.mp3"
+    },
+    {
+      "id": "前鼻韵母_08_en_4",
+      "group": "前鼻韵母",
+      "letter": "en",
+      "tone": 4,
+      "seq": 8,
+      "asset": "assets/audio/前鼻韵母/08_en_4.mp3"
+    },
+    {
+      "id": "前鼻韵母_09_in_1",
+      "group": "前鼻韵母",
+      "letter": "in",
+      "tone": 1,
+      "seq": 9,
+      "asset": "assets/audio/前鼻韵母/09_in_1.mp3"
+    },
+    {
+      "id": "前鼻韵母_10_in_2",
+      "group": "前鼻韵母",
+      "letter": "in",
+      "tone": 2,
+      "seq": 10,
+      "asset": "assets/audio/前鼻韵母/10_in_2.mp3"
+    },
+    {
+      "id": "前鼻韵母_11_in_3",
+      "group": "前鼻韵母",
+      "letter": "in",
+      "tone": 3,
+      "seq": 11,
+      "asset": "assets/audio/前鼻韵母/11_in_3.mp3"
+    },
+    {
+      "id": "前鼻韵母_12_in_4",
+      "group": "前鼻韵母",
+      "letter": "in",
+      "tone": 4,
+      "seq": 12,
+      "asset": "assets/audio/前鼻韵母/12_in_4.mp3"
+    },
+    {
+      "id": "前鼻韵母_13_un_1",
+      "group": "前鼻韵母",
+      "letter": "un",
+      "tone": 1,
+      "seq": 13,
+      "asset": "assets/audio/前鼻韵母/13_un_1.mp3"
+    },
+    {
+      "id": "前鼻韵母_14_un_2",
+      "group": "前鼻韵母",
+      "letter": "un",
+      "tone": 2,
+      "seq": 14,
+      "asset": "assets/audio/前鼻韵母/14_un_2.mp3"
+    },
+    {
+      "id": "前鼻韵母_15_un_3",
+      "group": "前鼻韵母",
+      "letter": "un",
+      "tone": 3,
+      "seq": 15,
+      "asset": "assets/audio/前鼻韵母/15_un_3.mp3"
+    },
+    {
+      "id": "前鼻韵母_16_un_4",
+      "group": "前鼻韵母",
+      "letter": "un",
+      "tone": 4,
+      "seq": 16,
+      "asset": "assets/audio/前鼻韵母/16_un_4.mp3"
+    },
+    {
+      "id": "前鼻韵母_17_vn_1",
+      "group": "前鼻韵母",
+      "letter": "vn",
+      "tone": 1,
+      "seq": 17,
+      "asset": "assets/audio/前鼻韵母/17_vn_1.mp3"
+    },
+    {
+      "id": "前鼻韵母_18_vn_2",
+      "group": "前鼻韵母",
+      "letter": "vn",
+      "tone": 2,
+      "seq": 18,
+      "asset": "assets/audio/前鼻韵母/18_vn_2.mp3"
+    },
+    {
+      "id": "前鼻韵母_19_vn_3",
+      "group": "前鼻韵母",
+      "letter": "vn",
+      "tone": 3,
+      "seq": 19,
+      "asset": "assets/audio/前鼻韵母/19_vn_3.mp3"
+    },
+    {
+      "id": "前鼻韵母_20_vn_4",
+      "group": "前鼻韵母",
+      "letter": "vn",
+      "tone": 4,
+      "seq": 20,
+      "asset": "assets/audio/前鼻韵母/20_vn_4.mp3"
+    },
+    {
+      "id": "单韵母_01_a_1",
+      "group": "单韵母",
+      "letter": "a",
+      "tone": 1,
+      "seq": 1,
+      "asset": "assets/audio/单韵母/01_a_1.mp3"
+    },
+    {
+      "id": "单韵母_02_a_2",
+      "group": "单韵母",
+      "letter": "a",
+      "tone": 2,
+      "seq": 2,
+      "asset": "assets/audio/单韵母/02_a_2.mp3"
+    },
+    {
+      "id": "单韵母_03_a_3",
+      "group": "单韵母",
+      "letter": "a",
+      "tone": 3,
+      "seq": 3,
+      "asset": "assets/audio/单韵母/03_a_3.mp3"
+    },
+    {
+      "id": "单韵母_04_a_4",
+      "group": "单韵母",
+      "letter": "a",
+      "tone": 4,
+      "seq": 4,
+      "asset": "assets/audio/单韵母/04_a_4.mp3"
+    },
+    {
+      "id": "单韵母_05_o_1",
+      "group": "单韵母",
+      "letter": "o",
+      "tone": 1,
+      "seq": 5,
+      "asset": "assets/audio/单韵母/05_o_1.mp3"
+    },
+    {
+      "id": "单韵母_06_o_2",
+      "group": "单韵母",
+      "letter": "o",
+      "tone": 2,
+      "seq": 6,
+      "asset": "assets/audio/单韵母/06_o_2.mp3"
+    },
+    {
+      "id": "单韵母_07_o_3",
+      "group": "单韵母",
+      "letter": "o",
+      "tone": 3,
+      "seq": 7,
+      "asset": "assets/audio/单韵母/07_o_3.mp3"
+    },
+    {
+      "id": "单韵母_08_o_4",
+      "group": "单韵母",
+      "letter": "o",
+      "tone": 4,
+      "seq": 8,
+      "asset": "assets/audio/单韵母/08_o_4.mp3"
+    },
+    {
+      "id": "单韵母_09_e_1",
+      "group": "单韵母",
+      "letter": "e",
+      "tone": 1,
+      "seq": 9,
+      "asset": "assets/audio/单韵母/09_e_1.mp3"
+    },
+    {
+      "id": "单韵母_10_e_2",
+      "group": "单韵母",
+      "letter": "e",
+      "tone": 2,
+      "seq": 10,
+      "asset": "assets/audio/单韵母/10_e_2.mp3"
+    },
+    {
+      "id": "单韵母_11_e_3",
+      "group": "单韵母",
+      "letter": "e",
+      "tone": 3,
+      "seq": 11,
+      "asset": "assets/audio/单韵母/11_e_3.mp3"
+    },
+    {
+      "id": "单韵母_12_e_4",
+      "group": "单韵母",
+      "letter": "e",
+      "tone": 4,
+      "seq": 12,
+      "asset": "assets/audio/单韵母/12_e_4.mp3"
+    },
+    {
+      "id": "单韵母_13_i_1",
+      "group": "单韵母",
+      "letter": "i",
+      "tone": 1,
+      "seq": 13,
+      "asset": "assets/audio/单韵母/13_i_1.mp3"
+    },
+    {
+      "id": "单韵母_14_i_2",
+      "group": "单韵母",
+      "letter": "i",
+      "tone": 2,
+      "seq": 14,
+      "asset": "assets/audio/单韵母/14_i_2.mp3"
+    },
+    {
+      "id": "单韵母_15_i_3",
+      "group": "单韵母",
+      "letter": "i",
+      "tone": 3,
+      "seq": 15,
+      "asset": "assets/audio/单韵母/15_i_3.mp3"
+    },
+    {
+      "id": "单韵母_16_i_4",
+      "group": "单韵母",
+      "letter": "i",
+      "tone": 4,
+      "seq": 16,
+      "asset": "assets/audio/单韵母/16_i_4.mp3"
+    },
+    {
+      "id": "单韵母_17_u_1",
+      "group": "单韵母",
+      "letter": "u",
+      "tone": 1,
+      "seq": 17,
+      "asset": "assets/audio/单韵母/17_u_1.mp3"
+    },
+    {
+      "id": "单韵母_18_u_2",
+      "group": "单韵母",
+      "letter": "u",
+      "tone": 2,
+      "seq": 18,
+      "asset": "assets/audio/单韵母/18_u_2.mp3"
+    },
+    {
+      "id": "单韵母_19_u_3",
+      "group": "单韵母",
+      "letter": "u",
+      "tone": 3,
+      "seq": 19,
+      "asset": "assets/audio/单韵母/19_u_3.mp3"
+    },
+    {
+      "id": "单韵母_20_u_4",
+      "group": "单韵母",
+      "letter": "u",
+      "tone": 4,
+      "seq": 20,
+      "asset": "assets/audio/单韵母/20_u_4.mp3"
+    },
+    {
+      "id": "单韵母_21_v_1",
+      "group": "单韵母",
+      "letter": "v",
+      "tone": 1,
+      "seq": 21,
+      "asset": "assets/audio/单韵母/21_v_1.mp3"
+    },
+    {
+      "id": "单韵母_22_v_2",
+      "group": "单韵母",
+      "letter": "v",
+      "tone": 2,
+      "seq": 22,
+      "asset": "assets/audio/单韵母/22_v_2.mp3"
+    },
+    {
+      "id": "单韵母_23_v_3",
+      "group": "单韵母",
+      "letter": "v",
+      "tone": 3,
+      "seq": 23,
+      "asset": "assets/audio/单韵母/23_v_3.mp3"
+    },
+    {
+      "id": "单韵母_24_v_4",
+      "group": "单韵母",
+      "letter": "v",
+      "tone": 4,
+      "seq": 24,
+      "asset": "assets/audio/单韵母/24_v_4.mp3"
+    },
+    {
+      "id": "后鼻韵母_01_ang_1",
+      "group": "后鼻韵母",
+      "letter": "ang",
+      "tone": 1,
+      "seq": 1,
+      "asset": "assets/audio/后鼻韵母/01_ang_1.mp3"
+    },
+    {
+      "id": "后鼻韵母_02_ang_2",
+      "group": "后鼻韵母",
+      "letter": "ang",
+      "tone": 2,
+      "seq": 2,
+      "asset": "assets/audio/后鼻韵母/02_ang_2.mp3"
+    },
+    {
+      "id": "后鼻韵母_03_ang_3",
+      "group": "后鼻韵母",
+      "letter": "ang",
+      "tone": 3,
+      "seq": 3,
+      "asset": "assets/audio/后鼻韵母/03_ang_3.mp3"
+    },
+    {
+      "id": "后鼻韵母_04_ang_4",
+      "group": "后鼻韵母",
+      "letter": "ang",
+      "tone": 4,
+      "seq": 4,
+      "asset": "assets/audio/后鼻韵母/04_ang_4.mp3"
+    },
+    {
+      "id": "后鼻韵母_05_eng_1",
+      "group": "后鼻韵母",
+      "letter": "eng",
+      "tone": 1,
+      "seq": 5,
+      "asset": "assets/audio/后鼻韵母/05_eng_1.mp3"
+    },
+    {
+      "id": "后鼻韵母_06_eng_2",
+      "group": "后鼻韵母",
+      "letter": "eng",
+      "tone": 2,
+      "seq": 6,
+      "asset": "assets/audio/后鼻韵母/06_eng_2.mp3"
+    },
+    {
+      "id": "后鼻韵母_07_eng_3",
+      "group": "后鼻韵母",
+      "letter": "eng",
+      "tone": 3,
+      "seq": 7,
+      "asset": "assets/audio/后鼻韵母/07_eng_3.mp3"
+    },
+    {
+      "id": "后鼻韵母_08_eng_4",
+      "group": "后鼻韵母",
+      "letter": "eng",
+      "tone": 4,
+      "seq": 8,
+      "asset": "assets/audio/后鼻韵母/08_eng_4.mp3"
+    },
+    {
+      "id": "后鼻韵母_09_ing_1",
+      "group": "后鼻韵母",
+      "letter": "ing",
+      "tone": 1,
+      "seq": 9,
+      "asset": "assets/audio/后鼻韵母/09_ing_1.mp3"
+    },
+    {
+      "id": "后鼻韵母_10_ing_2",
+      "group": "后鼻韵母",
+      "letter": "ing",
+      "tone": 2,
+      "seq": 10,
+      "asset": "assets/audio/后鼻韵母/10_ing_2.mp3"
+    },
+    {
+      "id": "后鼻韵母_11_ing_3",
+      "group": "后鼻韵母",
+      "letter": "ing",
+      "tone": 3,
+      "seq": 11,
+      "asset": "assets/audio/后鼻韵母/11_ing_3.mp3"
+    },
+    {
+      "id": "后鼻韵母_12_ing_4",
+      "group": "后鼻韵母",
+      "letter": "ing",
+      "tone": 4,
+      "seq": 12,
+      "asset": "assets/audio/后鼻韵母/12_ing_4.mp3"
+    },
+    {
+      "id": "后鼻韵母_13_ong_1",
+      "group": "后鼻韵母",
+      "letter": "ong",
+      "tone": 1,
+      "seq": 13,
+      "asset": "assets/audio/后鼻韵母/13_ong_1.mp3"
+    },
+    {
+      "id": "后鼻韵母_14_ong_2",
+      "group": "后鼻韵母",
+      "letter": "ong",
+      "tone": 2,
+      "seq": 14,
+      "asset": "assets/audio/后鼻韵母/14_ong_2.mp3"
+    },
+    {
+      "id": "后鼻韵母_15_ong_3",
+      "group": "后鼻韵母",
+      "letter": "ong",
+      "tone": 3,
+      "seq": 15,
+      "asset": "assets/audio/后鼻韵母/15_ong_3.mp3"
+    },
+    {
+      "id": "后鼻韵母_16_ong_4",
+      "group": "后鼻韵母",
+      "letter": "ong",
+      "tone": 4,
+      "seq": 16,
+      "asset": "assets/audio/后鼻韵母/16_ong_4.mp3"
+    },
+    {
+      "id": "声母表_01_b",
+      "group": "声母表",
+      "letter": "b",
+      "tone": null,
+      "seq": 1,
+      "asset": "assets/audio/声母表/01_b.mp3"
+    },
+    {
+      "id": "声母表_02_p",
+      "group": "声母表",
+      "letter": "p",
+      "tone": null,
+      "seq": 2,
+      "asset": "assets/audio/声母表/02_p.mp3"
+    },
+    {
+      "id": "声母表_03_m",
+      "group": "声母表",
+      "letter": "m",
+      "tone": null,
+      "seq": 3,
+      "asset": "assets/audio/声母表/03_m.mp3"
+    },
+    {
+      "id": "声母表_04_f",
+      "group": "声母表",
+      "letter": "f",
+      "tone": null,
+      "seq": 4,
+      "asset": "assets/audio/声母表/04_f.mp3"
+    },
+    {
+      "id": "声母表_05_d",
+      "group": "声母表",
+      "letter": "d",
+      "tone": null,
+      "seq": 5,
+      "asset": "assets/audio/声母表/05_d.mp3"
+    },
+    {
+      "id": "声母表_06_t",
+      "group": "声母表",
+      "letter": "t",
+      "tone": null,
+      "seq": 6,
+      "asset": "assets/audio/声母表/06_t.mp3"
+    },
+    {
+      "id": "声母表_07_n",
+      "group": "声母表",
+      "letter": "n",
+      "tone": null,
+      "seq": 7,
+      "asset": "assets/audio/声母表/07_n.mp3"
+    },
+    {
+      "id": "声母表_08_l",
+      "group": "声母表",
+      "letter": "l",
+      "tone": null,
+      "seq": 8,
+      "asset": "assets/audio/声母表/08_l.mp3"
+    },
+    {
+      "id": "声母表_09_g",
+      "group": "声母表",
+      "letter": "g",
+      "tone": null,
+      "seq": 9,
+      "asset": "assets/audio/声母表/09_g.mp3"
+    },
+    {
+      "id": "声母表_10_k",
+      "group": "声母表",
+      "letter": "k",
+      "tone": null,
+      "seq": 10,
+      "asset": "assets/audio/声母表/10_k.mp3"
+    },
+    {
+      "id": "声母表_11_h",
+      "group": "声母表",
+      "letter": "h",
+      "tone": null,
+      "seq": 11,
+      "asset": "assets/audio/声母表/11_h.mp3"
+    },
+    {
+      "id": "声母表_13_j",
+      "group": "声母表",
+      "letter": "j",
+      "tone": null,
+      "seq": 13,
+      "asset": "assets/audio/声母表/13_j.mp3"
+    },
+    {
+      "id": "声母表_14_q",
+      "group": "声母表",
+      "letter": "q",
+      "tone": null,
+      "seq": 14,
+      "asset": "assets/audio/声母表/14_q.mp3"
+    },
+    {
+      "id": "声母表_15_x",
+      "group": "声母表",
+      "letter": "x",
+      "tone": null,
+      "seq": 15,
+      "asset": "assets/audio/声母表/15_x.mp3"
+    },
+    {
+      "id": "声母表_17_z",
+      "group": "声母表",
+      "letter": "z",
+      "tone": null,
+      "seq": 17,
+      "asset": "assets/audio/声母表/17_z.mp3"
+    },
+    {
+      "id": "声母表_18_c",
+      "group": "声母表",
+      "letter": "c",
+      "tone": null,
+      "seq": 18,
+      "asset": "assets/audio/声母表/18_c.mp3"
+    },
+    {
+      "id": "声母表_19_s",
+      "group": "声母表",
+      "letter": "s",
+      "tone": null,
+      "seq": 19,
+      "asset": "assets/audio/声母表/19_s.mp3"
+    },
+    {
+      "id": "声母表_21_zh",
+      "group": "声母表",
+      "letter": "zh",
+      "tone": null,
+      "seq": 21,
+      "asset": "assets/audio/声母表/21_zh.mp3"
+    },
+    {
+      "id": "声母表_22_ch",
+      "group": "声母表",
+      "letter": "ch",
+      "tone": null,
+      "seq": 22,
+      "asset": "assets/audio/声母表/22_ch.mp3"
+    },
+    {
+      "id": "声母表_23_sh",
+      "group": "声母表",
+      "letter": "sh",
+      "tone": null,
+      "seq": 23,
+      "asset": "assets/audio/声母表/23_sh.mp3"
+    },
+    {
+      "id": "声母表_24_r",
+      "group": "声母表",
+      "letter": "r",
+      "tone": null,
+      "seq": 24,
+      "asset": "assets/audio/声母表/24_r.mp3"
+    },
+    {
+      "id": "声母表_25_y",
+      "group": "声母表",
+      "letter": "y",
+      "tone": null,
+      "seq": 25,
+      "asset": "assets/audio/声母表/25_y.mp3"
+    },
+    {
+      "id": "声母表_26_w",
+      "group": "声母表",
+      "letter": "w",
+      "tone": null,
+      "seq": 26,
+      "asset": "assets/audio/声母表/26_w.mp3"
+    },
+    {
+      "id": "复韵母_01_ai_1",
+      "group": "复韵母",
+      "letter": "ai",
+      "tone": 1,
+      "seq": 1,
+      "asset": "assets/audio/复韵母/01_ai_1.mp3"
+    },
+    {
+      "id": "复韵母_02_ai_2",
+      "group": "复韵母",
+      "letter": "ai",
+      "tone": 2,
+      "seq": 2,
+      "asset": "assets/audio/复韵母/02_ai_2.mp3"
+    },
+    {
+      "id": "复韵母_03_ai_3",
+      "group": "复韵母",
+      "letter": "ai",
+      "tone": 3,
+      "seq": 3,
+      "asset": "assets/audio/复韵母/03_ai_3.mp3"
+    },
+    {
+      "id": "复韵母_04_ai_4",
+      "group": "复韵母",
+      "letter": "ai",
+      "tone": 4,
+      "seq": 4,
+      "asset": "assets/audio/复韵母/04_ai_4.mp3"
+    },
+    {
+      "id": "复韵母_05_ei_1",
+      "group": "复韵母",
+      "letter": "ei",
+      "tone": 1,
+      "seq": 5,
+      "asset": "assets/audio/复韵母/05_ei_1.mp3"
+    },
+    {
+      "id": "复韵母_06_ei_2",
+      "group": "复韵母",
+      "letter": "ei",
+      "tone": 2,
+      "seq": 6,
+      "asset": "assets/audio/复韵母/06_ei_2.mp3"
+    },
+    {
+      "id": "复韵母_07_ei_3",
+      "group": "复韵母",
+      "letter": "ei",
+      "tone": 3,
+      "seq": 7,
+      "asset": "assets/audio/复韵母/07_ei_3.mp3"
+    },
+    {
+      "id": "复韵母_08_ei_4",
+      "group": "复韵母",
+      "letter": "ei",
+      "tone": 4,
+      "seq": 8,
+      "asset": "assets/audio/复韵母/08_ei_4.mp3"
+    },
+    {
+      "id": "复韵母_09_ui_1",
+      "group": "复韵母",
+      "letter": "ui",
+      "tone": 1,
+      "seq": 9,
+      "asset": "assets/audio/复韵母/09_ui_1.mp3"
+    },
+    {
+      "id": "复韵母_10_ui_2",
+      "group": "复韵母",
+      "letter": "ui",
+      "tone": 2,
+      "seq": 10,
+      "asset": "assets/audio/复韵母/10_ui_2.mp3"
+    },
+    {
+      "id": "复韵母_11_ui_3",
+      "group": "复韵母",
+      "letter": "ui",
+      "tone": 3,
+      "seq": 11,
+      "asset": "assets/audio/复韵母/11_ui_3.mp3"
+    },
+    {
+      "id": "复韵母_12_ui_4",
+      "group": "复韵母",
+      "letter": "ui",
+      "tone": 4,
+      "seq": 12,
+      "asset": "assets/audio/复韵母/12_ui_4.mp3"
+    },
+    {
+      "id": "复韵母_13_ao_1",
+      "group": "复韵母",
+      "letter": "ao",
+      "tone": 1,
+      "seq": 13,
+      "asset": "assets/audio/复韵母/13_ao_1.mp3"
+    },
+    {
+      "id": "复韵母_14_ao_2",
+      "group": "复韵母",
+      "letter": "ao",
+      "tone": 2,
+      "seq": 14,
+      "asset": "assets/audio/复韵母/14_ao_2.mp3"
+    },
+    {
+      "id": "复韵母_15_ao_3",
+      "group": "复韵母",
+      "letter": "ao",
+      "tone": 3,
+      "seq": 15,
+      "asset": "assets/audio/复韵母/15_ao_3.mp3"
+    },
+    {
+      "id": "复韵母_16_ao_4",
+      "group": "复韵母",
+      "letter": "ao",
+      "tone": 4,
+      "seq": 16,
+      "asset": "assets/audio/复韵母/16_ao_4.mp3"
+    },
+    {
+      "id": "复韵母_17_ou_1",
+      "group": "复韵母",
+      "letter": "ou",
+      "tone": 1,
+      "seq": 17,
+      "asset": "assets/audio/复韵母/17_ou_1.mp3"
+    },
+    {
+      "id": "复韵母_18_ou_2",
+      "group": "复韵母",
+      "letter": "ou",
+      "tone": 2,
+      "seq": 18,
+      "asset": "assets/audio/复韵母/18_ou_2.mp3"
+    },
+    {
+      "id": "复韵母_19_ou_3",
+      "group": "复韵母",
+      "letter": "ou",
+      "tone": 3,
+      "seq": 19,
+      "asset": "assets/audio/复韵母/19_ou_3.mp3"
+    },
+    {
+      "id": "复韵母_20_ou_4",
+      "group": "复韵母",
+      "letter": "ou",
+      "tone": 4,
+      "seq": 20,
+      "asset": "assets/audio/复韵母/20_ou_4.mp3"
+    },
+    {
+      "id": "复韵母_21_iu_1",
+      "group": "复韵母",
+      "letter": "iu",
+      "tone": 1,
+      "seq": 21,
+      "asset": "assets/audio/复韵母/21_iu_1.mp3"
+    },
+    {
+      "id": "复韵母_22_iu_2",
+      "group": "复韵母",
+      "letter": "iu",
+      "tone": 2,
+      "seq": 22,
+      "asset": "assets/audio/复韵母/22_iu_2.mp3"
+    },
+    {
+      "id": "复韵母_23_iu_3",
+      "group": "复韵母",
+      "letter": "iu",
+      "tone": 3,
+      "seq": 23,
+      "asset": "assets/audio/复韵母/23_iu_3.mp3"
+    },
+    {
+      "id": "复韵母_24_iu_4",
+      "group": "复韵母",
+      "letter": "iu",
+      "tone": 4,
+      "seq": 24,
+      "asset": "assets/audio/复韵母/24_iu_4.mp3"
+    },
+    {
+      "id": "复韵母_25_ie_1",
+      "group": "复韵母",
+      "letter": "ie",
+      "tone": 1,
+      "seq": 25,
+      "asset": "assets/audio/复韵母/25_ie_1.mp3"
+    },
+    {
+      "id": "复韵母_26_ie_2",
+      "group": "复韵母",
+      "letter": "ie",
+      "tone": 2,
+      "seq": 26,
+      "asset": "assets/audio/复韵母/26_ie_2.mp3"
+    },
+    {
+      "id": "复韵母_27_ie_3",
+      "group": "复韵母",
+      "letter": "ie",
+      "tone": 3,
+      "seq": 27,
+      "asset": "assets/audio/复韵母/27_ie_3.mp3"
+    },
+    {
+      "id": "复韵母_28_ie_4",
+      "group": "复韵母",
+      "letter": "ie",
+      "tone": 4,
+      "seq": 28,
+      "asset": "assets/audio/复韵母/28_ie_4.mp3"
+    },
+    {
+      "id": "复韵母_29_ue_1",
+      "group": "复韵母",
+      "letter": "ue",
+      "tone": 1,
+      "seq": 29,
+      "asset": "assets/audio/复韵母/29_ue_1.mp3"
+    },
+    {
+      "id": "复韵母_30_ve_2",
+      "group": "复韵母",
+      "letter": "ve",
+      "tone": 2,
+      "seq": 30,
+      "asset": "assets/audio/复韵母/30_ve_2.mp3"
+    },
+    {
+      "id": "复韵母_31_ve_3",
+      "group": "复韵母",
+      "letter": "ve",
+      "tone": 3,
+      "seq": 31,
+      "asset": "assets/audio/复韵母/31_ve_3.mp3"
+    },
+    {
+      "id": "复韵母_32_ve_4",
+      "group": "复韵母",
+      "letter": "ve",
+      "tone": 4,
+      "seq": 32,
+      "asset": "assets/audio/复韵母/32_ve_4.mp3"
+    },
+    {
+      "id": "复韵母_33_er_1",
+      "group": "复韵母",
+      "letter": "er",
+      "tone": 1,
+      "seq": 33,
+      "asset": "assets/audio/复韵母/33_er_1.mp3"
+    },
+    {
+      "id": "复韵母_34_er_2",
+      "group": "复韵母",
+      "letter": "er",
+      "tone": 2,
+      "seq": 34,
+      "asset": "assets/audio/复韵母/34_er_2.mp3"
+    },
+    {
+      "id": "复韵母_35_er_3",
+      "group": "复韵母",
+      "letter": "er",
+      "tone": 3,
+      "seq": 35,
+      "asset": "assets/audio/复韵母/35_er_3.mp3"
+    },
+    {
+      "id": "复韵母_36_er_4",
+      "group": "复韵母",
+      "letter": "er",
+      "tone": 4,
+      "seq": 36,
+      "asset": "assets/audio/复韵母/36_er_4.mp3"
+    },
+    {
+      "id": "字母表_01_a",
+      "group": "字母表",
+      "letter": "a",
+      "tone": null,
+      "seq": 1,
+      "asset": "assets/audio/字母表/01_a.mp3"
+    },
+    {
+      "id": "字母表_02_o",
+      "group": "字母表",
+      "letter": "o",
+      "tone": null,
+      "seq": 2,
+      "asset": "assets/audio/字母表/02_o.mp3"
+    },
+    {
+      "id": "字母表_03_e",
+      "group": "字母表",
+      "letter": "e",
+      "tone": null,
+      "seq": 3,
+      "asset": "assets/audio/字母表/03_e.mp3"
+    },
+    {
+      "id": "字母表_04_i",
+      "group": "字母表",
+      "letter": "i",
+      "tone": null,
+      "seq": 4,
+      "asset": "assets/audio/字母表/04_i.mp3"
+    },
+    {
+      "id": "字母表_05_u",
+      "group": "字母表",
+      "letter": "u",
+      "tone": null,
+      "seq": 5,
+      "asset": "assets/audio/字母表/05_u.mp3"
+    },
+    {
+      "id": "字母表_06_v",
+      "group": "字母表",
+      "letter": "v",
+      "tone": null,
+      "seq": 6,
+      "asset": "assets/audio/字母表/06_v.mp3"
+    },
+    {
+      "id": "字母表_07_b",
+      "group": "字母表",
+      "letter": "b",
+      "tone": null,
+      "seq": 7,
+      "asset": "assets/audio/字母表/07_b.mp3"
+    },
+    {
+      "id": "字母表_08_p",
+      "group": "字母表",
+      "letter": "p",
+      "tone": null,
+      "seq": 8,
+      "asset": "assets/audio/字母表/08_p.mp3"
+    },
+    {
+      "id": "字母表_09_m",
+      "group": "字母表",
+      "letter": "m",
+      "tone": null,
+      "seq": 9,
+      "asset": "assets/audio/字母表/09_m.mp3"
+    },
+    {
+      "id": "字母表_10_f",
+      "group": "字母表",
+      "letter": "f",
+      "tone": null,
+      "seq": 10,
+      "asset": "assets/audio/字母表/10_f.mp3"
+    },
+    {
+      "id": "字母表_11_d",
+      "group": "字母表",
+      "letter": "d",
+      "tone": null,
+      "seq": 11,
+      "asset": "assets/audio/字母表/11_d.mp3"
+    },
+    {
+      "id": "字母表_12_t",
+      "group": "字母表",
+      "letter": "t",
+      "tone": null,
+      "seq": 12,
+      "asset": "assets/audio/字母表/12_t.mp3"
+    },
+    {
+      "id": "字母表_13_n",
+      "group": "字母表",
+      "letter": "n",
+      "tone": null,
+      "seq": 13,
+      "asset": "assets/audio/字母表/13_n.mp3"
+    },
+    {
+      "id": "字母表_14_l",
+      "group": "字母表",
+      "letter": "l",
+      "tone": null,
+      "seq": 14,
+      "asset": "assets/audio/字母表/14_l.mp3"
+    },
+    {
+      "id": "字母表_15_g",
+      "group": "字母表",
+      "letter": "g",
+      "tone": null,
+      "seq": 15,
+      "asset": "assets/audio/字母表/15_g.mp3"
+    },
+    {
+      "id": "字母表_16_k",
+      "group": "字母表",
+      "letter": "k",
+      "tone": null,
+      "seq": 16,
+      "asset": "assets/audio/字母表/16_k.mp3"
+    },
+    {
+      "id": "字母表_17_h",
+      "group": "字母表",
+      "letter": "h",
+      "tone": null,
+      "seq": 17,
+      "asset": "assets/audio/字母表/17_h.mp3"
+    },
+    {
+      "id": "字母表_18_j",
+      "group": "字母表",
+      "letter": "j",
+      "tone": null,
+      "seq": 18,
+      "asset": "assets/audio/字母表/18_j.mp3"
+    },
+    {
+      "id": "字母表_19_q",
+      "group": "字母表",
+      "letter": "q",
+      "tone": null,
+      "seq": 19,
+      "asset": "assets/audio/字母表/19_q.mp3"
+    },
+    {
+      "id": "字母表_20_x",
+      "group": "字母表",
+      "letter": "x",
+      "tone": null,
+      "seq": 20,
+      "asset": "assets/audio/字母表/20_x.mp3"
+    },
+    {
+      "id": "字母表_21_zh",
+      "group": "字母表",
+      "letter": "zh",
+      "tone": null,
+      "seq": 21,
+      "asset": "assets/audio/字母表/21_zh.mp3"
+    },
+    {
+      "id": "字母表_22_ch",
+      "group": "字母表",
+      "letter": "ch",
+      "tone": null,
+      "seq": 22,
+      "asset": "assets/audio/字母表/22_ch.mp3"
+    },
+    {
+      "id": "字母表_23_sh",
+      "group": "字母表",
+      "letter": "sh",
+      "tone": null,
+      "seq": 23,
+      "asset": "assets/audio/字母表/23_sh.mp3"
+    },
+    {
+      "id": "字母表_24_r",
+      "group": "字母表",
+      "letter": "r",
+      "tone": null,
+      "seq": 24,
+      "asset": "assets/audio/字母表/24_r.mp3"
+    },
+    {
+      "id": "字母表_25_z",
+      "group": "字母表",
+      "letter": "z",
+      "tone": null,
+      "seq": 25,
+      "asset": "assets/audio/字母表/25_z.mp3"
+    },
+    {
+      "id": "字母表_26_c",
+      "group": "字母表",
+      "letter": "c",
+      "tone": null,
+      "seq": 26,
+      "asset": "assets/audio/字母表/26_c.mp3"
+    },
+    {
+      "id": "字母表_27_s",
+      "group": "字母表",
+      "letter": "s",
+      "tone": null,
+      "seq": 27,
+      "asset": "assets/audio/字母表/27_s.mp3"
+    },
+    {
+      "id": "字母表_28_y",
+      "group": "字母表",
+      "letter": "y",
+      "tone": null,
+      "seq": 28,
+      "asset": "assets/audio/字母表/28_y.mp3"
+    },
+    {
+      "id": "字母表_29_w",
+      "group": "字母表",
+      "letter": "w",
+      "tone": null,
+      "seq": 29,
+      "asset": "assets/audio/字母表/29_w.mp3"
+    },
+    {
+      "id": "整体认读_01_zhi_1",
+      "group": "整体认读",
+      "letter": "zhi",
+      "tone": 1,
+      "seq": 1,
+      "asset": "assets/audio/整体认读/01_zhi_1.mp3"
+    },
+    {
+      "id": "整体认读_02_zhi_2",
+      "group": "整体认读",
+      "letter": "zhi",
+      "tone": 2,
+      "seq": 2,
+      "asset": "assets/audio/整体认读/02_zhi_2.mp3"
+    },
+    {
+      "id": "整体认读_03_zhi_3",
+      "group": "整体认读",
+      "letter": "zhi",
+      "tone": 3,
+      "seq": 3,
+      "asset": "assets/audio/整体认读/03_zhi_3.mp3"
+    },
+    {
+      "id": "整体认读_04_zhi_4",
+      "group": "整体认读",
+      "letter": "zhi",
+      "tone": 4,
+      "seq": 4,
+      "asset": "assets/audio/整体认读/04_zhi_4.mp3"
+    },
+    {
+      "id": "整体认读_05_chi_1",
+      "group": "整体认读",
+      "letter": "chi",
+      "tone": 1,
+      "seq": 5,
+      "asset": "assets/audio/整体认读/05_chi_1.mp3"
+    },
+    {
+      "id": "整体认读_06_chi_2",
+      "group": "整体认读",
+      "letter": "chi",
+      "tone": 2,
+      "seq": 6,
+      "asset": "assets/audio/整体认读/06_chi_2.mp3"
+    },
+    {
+      "id": "整体认读_07_chi_3",
+      "group": "整体认读",
+      "letter": "chi",
+      "tone": 3,
+      "seq": 7,
+      "asset": "assets/audio/整体认读/07_chi_3.mp3"
+    },
+    {
+      "id": "整体认读_08_chi_4",
+      "group": "整体认读",
+      "letter": "chi",
+      "tone": 4,
+      "seq": 8,
+      "asset": "assets/audio/整体认读/08_chi_4.mp3"
+    },
+    {
+      "id": "整体认读_09_shi_1",
+      "group": "整体认读",
+      "letter": "shi",
+      "tone": 1,
+      "seq": 9,
+      "asset": "assets/audio/整体认读/09_shi_1.mp3"
+    },
+    {
+      "id": "整体认读_10_shi_2",
+      "group": "整体认读",
+      "letter": "shi",
+      "tone": 2,
+      "seq": 10,
+      "asset": "assets/audio/整体认读/10_shi_2.mp3"
+    },
+    {
+      "id": "整体认读_11_shi_3",
+      "group": "整体认读",
+      "letter": "shi",
+      "tone": 3,
+      "seq": 11,
+      "asset": "assets/audio/整体认读/11_shi_3.mp3"
+    },
+    {
+      "id": "整体认读_12_shi_4",
+      "group": "整体认读",
+      "letter": "shi",
+      "tone": 4,
+      "seq": 12,
+      "asset": "assets/audio/整体认读/12_shi_4.mp3"
+    },
+    {
+      "id": "整体认读_13_ri_1",
+      "group": "整体认读",
+      "letter": "ri",
+      "tone": 1,
+      "seq": 13,
+      "asset": "assets/audio/整体认读/13_ri_1.mp3"
+    },
+    {
+      "id": "整体认读_14_ri_2",
+      "group": "整体认读",
+      "letter": "ri",
+      "tone": 2,
+      "seq": 14,
+      "asset": "assets/audio/整体认读/14_ri_2.mp3"
+    },
+    {
+      "id": "整体认读_15_ri_3",
+      "group": "整体认读",
+      "letter": "ri",
+      "tone": 3,
+      "seq": 15,
+      "asset": "assets/audio/整体认读/15_ri_3.mp3"
+    },
+    {
+      "id": "整体认读_16_ri_4",
+      "group": "整体认读",
+      "letter": "ri",
+      "tone": 4,
+      "seq": 16,
+      "asset": "assets/audio/整体认读/16_ri_4.mp3"
+    },
+    {
+      "id": "整体认读_17_zi_1",
+      "group": "整体认读",
+      "letter": "zi",
+      "tone": 1,
+      "seq": 17,
+      "asset": "assets/audio/整体认读/17_zi_1.mp3"
+    },
+    {
+      "id": "整体认读_18_zi_2",
+      "group": "整体认读",
+      "letter": "zi",
+      "tone": 2,
+      "seq": 18,
+      "asset": "assets/audio/整体认读/18_zi_2.mp3"
+    },
+    {
+      "id": "整体认读_19_zi_3",
+      "group": "整体认读",
+      "letter": "zi",
+      "tone": 3,
+      "seq": 19,
+      "asset": "assets/audio/整体认读/19_zi_3.mp3"
+    },
+    {
+      "id": "整体认读_20_zi_4",
+      "group": "整体认读",
+      "letter": "zi",
+      "tone": 4,
+      "seq": 20,
+      "asset": "assets/audio/整体认读/20_zi_4.mp3"
+    },
+    {
+      "id": "整体认读_21_ci_1",
+      "group": "整体认读",
+      "letter": "ci",
+      "tone": 1,
+      "seq": 21,
+      "asset": "assets/audio/整体认读/21_ci_1.mp3"
+    },
+    {
+      "id": "整体认读_22_ci_2",
+      "group": "整体认读",
+      "letter": "ci",
+      "tone": 2,
+      "seq": 22,
+      "asset": "assets/audio/整体认读/22_ci_2.mp3"
+    },
+    {
+      "id": "整体认读_23_ci_3",
+      "group": "整体认读",
+      "letter": "ci",
+      "tone": 3,
+      "seq": 23,
+      "asset": "assets/audio/整体认读/23_ci_3.mp3"
+    },
+    {
+      "id": "整体认读_24_ci_4",
+      "group": "整体认读",
+      "letter": "ci",
+      "tone": 4,
+      "seq": 24,
+      "asset": "assets/audio/整体认读/24_ci_4.mp3"
+    },
+    {
+      "id": "整体认读_25_si_1",
+      "group": "整体认读",
+      "letter": "si",
+      "tone": 1,
+      "seq": 25,
+      "asset": "assets/audio/整体认读/25_si_1.mp3"
+    },
+    {
+      "id": "整体认读_26_si_2",
+      "group": "整体认读",
+      "letter": "si",
+      "tone": 2,
+      "seq": 26,
+      "asset": "assets/audio/整体认读/26_si_2.mp3"
+    },
+    {
+      "id": "整体认读_27_si_3",
+      "group": "整体认读",
+      "letter": "si",
+      "tone": 3,
+      "seq": 27,
+      "asset": "assets/audio/整体认读/27_si_3.mp3"
+    },
+    {
+      "id": "整体认读_28_si_4",
+      "group": "整体认读",
+      "letter": "si",
+      "tone": 4,
+      "seq": 28,
+      "asset": "assets/audio/整体认读/28_si_4.mp3"
+    },
+    {
+      "id": "整体认读_29_yi_1",
+      "group": "整体认读",
+      "letter": "yi",
+      "tone": 1,
+      "seq": 29,
+      "asset": "assets/audio/整体认读/29_yi_1.mp3"
+    },
+    {
+      "id": "整体认读_30_yi_2",
+      "group": "整体认读",
+      "letter": "yi",
+      "tone": 2,
+      "seq": 30,
+      "asset": "assets/audio/整体认读/30_yi_2.mp3"
+    },
+    {
+      "id": "整体认读_31_yi_3",
+      "group": "整体认读",
+      "letter": "yi",
+      "tone": 3,
+      "seq": 31,
+      "asset": "assets/audio/整体认读/31_yi_3.mp3"
+    },
+    {
+      "id": "整体认读_32_yi_4",
+      "group": "整体认读",
+      "letter": "yi",
+      "tone": 4,
+      "seq": 32,
+      "asset": "assets/audio/整体认读/32_yi_4.mp3"
+    },
+    {
+      "id": "整体认读_33_wu_1",
+      "group": "整体认读",
+      "letter": "wu",
+      "tone": 1,
+      "seq": 33,
+      "asset": "assets/audio/整体认读/33_wu_1.mp3"
+    },
+    {
+      "id": "整体认读_34_wu_2",
+      "group": "整体认读",
+      "letter": "wu",
+      "tone": 2,
+      "seq": 34,
+      "asset": "assets/audio/整体认读/34_wu_2.mp3"
+    },
+    {
+      "id": "整体认读_35_wu_3",
+      "group": "整体认读",
+      "letter": "wu",
+      "tone": 3,
+      "seq": 35,
+      "asset": "assets/audio/整体认读/35_wu_3.mp3"
+    },
+    {
+      "id": "整体认读_36_wu_4",
+      "group": "整体认读",
+      "letter": "wu",
+      "tone": 4,
+      "seq": 36,
+      "asset": "assets/audio/整体认读/36_wu_4.mp3"
+    },
+    {
+      "id": "整体认读_37_yu_1",
+      "group": "整体认读",
+      "letter": "yu",
+      "tone": 1,
+      "seq": 37,
+      "asset": "assets/audio/整体认读/37_yu_1.mp3"
+    },
+    {
+      "id": "整体认读_38_yu_2",
+      "group": "整体认读",
+      "letter": "yu",
+      "tone": 2,
+      "seq": 38,
+      "asset": "assets/audio/整体认读/38_yu_2.mp3"
+    },
+    {
+      "id": "整体认读_39_yu_3",
+      "group": "整体认读",
+      "letter": "yu",
+      "tone": 3,
+      "seq": 39,
+      "asset": "assets/audio/整体认读/39_yu_3.mp3"
+    },
+    {
+      "id": "整体认读_40_yu_4",
+      "group": "整体认读",
+      "letter": "yu",
+      "tone": 4,
+      "seq": 40,
+      "asset": "assets/audio/整体认读/40_yu_4.mp3"
+    },
+    {
+      "id": "整体认读_41_ye_1",
+      "group": "整体认读",
+      "letter": "ye",
+      "tone": 1,
+      "seq": 41,
+      "asset": "assets/audio/整体认读/41_ye_1.mp3"
+    },
+    {
+      "id": "整体认读_42_ye_2",
+      "group": "整体认读",
+      "letter": "ye",
+      "tone": 2,
+      "seq": 42,
+      "asset": "assets/audio/整体认读/42_ye_2.mp3"
+    },
+    {
+      "id": "整体认读_43_ye_3",
+      "group": "整体认读",
+      "letter": "ye",
+      "tone": 3,
+      "seq": 43,
+      "asset": "assets/audio/整体认读/43_ye_3.mp3"
+    },
+    {
+      "id": "整体认读_44_ye_4",
+      "group": "整体认读",
+      "letter": "ye",
+      "tone": 4,
+      "seq": 44,
+      "asset": "assets/audio/整体认读/44_ye_4.mp3"
+    },
+    {
+      "id": "整体认读_45_yue_1",
+      "group": "整体认读",
+      "letter": "yue",
+      "tone": 1,
+      "seq": 45,
+      "asset": "assets/audio/整体认读/45_yue_1.mp3"
+    },
+    {
+      "id": "整体认读_46_yue_2",
+      "group": "整体认读",
+      "letter": "yue",
+      "tone": 2,
+      "seq": 46,
+      "asset": "assets/audio/整体认读/46_yue_2.mp3"
+    },
+    {
+      "id": "整体认读_47_yue_3",
+      "group": "整体认读",
+      "letter": "yue",
+      "tone": 3,
+      "seq": 47,
+      "asset": "assets/audio/整体认读/47_yue_3.mp3"
+    },
+    {
+      "id": "整体认读_48_yue_4",
+      "group": "整体认读",
+      "letter": "yue",
+      "tone": 4,
+      "seq": 48,
+      "asset": "assets/audio/整体认读/48_yue_4.mp3"
+    },
+    {
+      "id": "整体认读_49_yuan_1",
+      "group": "整体认读",
+      "letter": "yuan",
+      "tone": 1,
+      "seq": 49,
+      "asset": "assets/audio/整体认读/49_yuan_1.mp3"
+    },
+    {
+      "id": "整体认读_50_yuan_2",
+      "group": "整体认读",
+      "letter": "yuan",
+      "tone": 2,
+      "seq": 50,
+      "asset": "assets/audio/整体认读/50_yuan_2.mp3"
+    },
+    {
+      "id": "整体认读_51_yuan_3",
+      "group": "整体认读",
+      "letter": "yuan",
+      "tone": 3,
+      "seq": 51,
+      "asset": "assets/audio/整体认读/51_yuan_3.mp3"
+    },
+    {
+      "id": "整体认读_52_yuan_4",
+      "group": "整体认读",
+      "letter": "yuan",
+      "tone": 4,
+      "seq": 52,
+      "asset": "assets/audio/整体认读/52_yuan_4.mp3"
+    },
+    {
+      "id": "整体认读_53_yin_1",
+      "group": "整体认读",
+      "letter": "yin",
+      "tone": 1,
+      "seq": 53,
+      "asset": "assets/audio/整体认读/53_yin_1.mp3"
+    },
+    {
+      "id": "整体认读_54_yin_2",
+      "group": "整体认读",
+      "letter": "yin",
+      "tone": 2,
+      "seq": 54,
+      "asset": "assets/audio/整体认读/54_yin_2.mp3"
+    },
+    {
+      "id": "整体认读_55_yin_3",
+      "group": "整体认读",
+      "letter": "yin",
+      "tone": 3,
+      "seq": 55,
+      "asset": "assets/audio/整体认读/55_yin_3.mp3"
+    },
+    {
+      "id": "整体认读_56_yin_4",
+      "group": "整体认读",
+      "letter": "yin",
+      "tone": 4,
+      "seq": 56,
+      "asset": "assets/audio/整体认读/56_yin_4.mp3"
+    },
+    {
+      "id": "整体认读_57_yun_1",
+      "group": "整体认读",
+      "letter": "yun",
+      "tone": 1,
+      "seq": 57,
+      "asset": "assets/audio/整体认读/57_yun_1.mp3"
+    },
+    {
+      "id": "整体认读_58_yun_2",
+      "group": "整体认读",
+      "letter": "yun",
+      "tone": 2,
+      "seq": 58,
+      "asset": "assets/audio/整体认读/58_yun_2.mp3"
+    },
+    {
+      "id": "整体认读_59_yun_3",
+      "group": "整体认读",
+      "letter": "yun",
+      "tone": 3,
+      "seq": 59,
+      "asset": "assets/audio/整体认读/59_yun_3.mp3"
+    },
+    {
+      "id": "整体认读_60_yun_4",
+      "group": "整体认读",
+      "letter": "yun",
+      "tone": 4,
+      "seq": 60,
+      "asset": "assets/audio/整体认读/60_yun_4.mp3"
+    },
+    {
+      "id": "整体认读_61_ying_1",
+      "group": "整体认读",
+      "letter": "ying",
+      "tone": 1,
+      "seq": 61,
+      "asset": "assets/audio/整体认读/61_ying_1.mp3"
+    },
+    {
+      "id": "整体认读_62_ying_2",
+      "group": "整体认读",
+      "letter": "ying",
+      "tone": 2,
+      "seq": 62,
+      "asset": "assets/audio/整体认读/62_ying_2.mp3"
+    },
+    {
+      "id": "整体认读_63_ying_3",
+      "group": "整体认读",
+      "letter": "ying",
+      "tone": 3,
+      "seq": 63,
+      "asset": "assets/audio/整体认读/63_ying_3.mp3"
+    },
+    {
+      "id": "整体认读_64_ying_4",
+      "group": "整体认读",
+      "letter": "ying",
+      "tone": 4,
+      "seq": 64,
+      "asset": "assets/audio/整体认读/64_ying_4.mp3"
+    }
+  ]
+}
